@@ -26,10 +26,11 @@ function Header() {
       {/*Right section*/}
       <div className="flex items-center space-x-2 md:space-x-10">
         <img
-          src="https://rb.gy/ulxxee"
+          src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
           width={100}
           height={100}
           className="cursor-pointer object-contain"
+          alt="netflix logo"
         />
         <ul className="hidden space-x-4 md:flex">
           <li className="headerLink">Home</li>
